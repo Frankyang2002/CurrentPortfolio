@@ -21,11 +21,10 @@ function App() {
         <Header></Header>
         <Home></Home>
         <About></About>
-
         <Resume></Resume>
         <Projects></Projects>
         <Contact></Contact>
-        <Logo></Logo> 
+        <Logo></Logo>
     </ThemeProvider>
   );
 }

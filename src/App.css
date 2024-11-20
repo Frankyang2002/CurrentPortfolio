@@ -43,3 +43,8 @@ html {
 .screen-minus-header {
   height: calc(100vh - 4rem); 
 }
+
+.screen-minus-border {
+  width: calc(100vw - 6rem); 
+}
+

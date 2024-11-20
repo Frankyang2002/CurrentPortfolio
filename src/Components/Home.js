@@ -16,9 +16,12 @@ export default function Home() {
       <div className="flex justify-between w-full max-w-5xl z-10 px-8">
         {/* Left Side: Welcome Message */}
         <div className="text-white text-left leading-loose">
-          <p className="text-3xl font-semibold"> Welcome to my portfolio, my name is</p>
+          <br></br>
+          <p className="text-3xl font-semibold"> Welcome to my Developer Portfolio, my name is</p>
+          <br></br>
           <h2 className="text-5xl font-bold mb-4">Frank Yang</h2>
-          <p className="text-2xl">A Computer Science and Physics student at UNSW from Australia!</p>
+          <br></br>
+          <p className="text-2xl">A Computer Science and Physics student from UNSW, Australia</p>
         </div>
 
         {/* Right Side: My Portfolio Pic */}
