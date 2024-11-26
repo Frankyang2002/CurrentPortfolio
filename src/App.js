@@ -23,6 +23,7 @@ function App() {
         <About></About>
         <Resume></Resume>
         <Projects></Projects>
+        <Contact></Contact>
       </ThemeProvider>
     </div>
    
