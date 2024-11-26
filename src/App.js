@@ -4,7 +4,6 @@ import Header from './Components/Header'
 
 import Home from './Components/Home'
 import About from './Components/About'
-import Skills from './Components/Skills'
 import Resume from './Components/Resume'
 import Projects from './Components/Projects'
 import Contact from './Components/Contact'
@@ -16,16 +15,18 @@ import './index.css'
 
 function App() {
   return (
-    <ThemeProvider>
+    <div>
+       <ThemeProvider>
         <ScreenBorder></ScreenBorder>
         <Header></Header>
         <Home></Home>
         <About></About>
         <Resume></Resume>
         <Projects></Projects>
-        <Contact></Contact>
-        <Logo></Logo>
-    </ThemeProvider>
+      </ThemeProvider>
+    </div>
+   
+    
   );
 }
 

@@ -24,7 +24,7 @@ export default function Logo() {
           </div>
 
           <div class="text-sm text-white z-50">
-            &copy; 2024 Your Name. All Rights Reserved.
+            &copy; 2024 Frank Yang. All Rights Reserved.
           </div>
         </div>
     </footer>
