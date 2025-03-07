@@ -100,7 +100,7 @@ export default function Resume() {
                         />
                       </div>
                       <p class="text-sm font-semibold">Technical University of Munich | 2024-2025</p>
-                      <p class="text-sm text-gray-600">Took courses in Machine learning, Deep Learning and Data Analysis with R</p>
+                      <p class="text-sm text-gray-600">Deep Learning, Data Visualisation and Machine Learning</p>
                     </div>
                   </li>
                   <li class="relative group">

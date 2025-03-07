@@ -25,7 +25,7 @@ export default function Projects() {
             <div className={`${invert} p-4 h-4/6 rounded-[20px] text-white text-center space-y-4 `}>
               <h3 className="font-bold text-xl">Developer Portfolio</h3>
 
-              <div className={`${invertborder} relative h-1/5 border  border-2  px-4 overflow-y-auto rounded z-40`}>
+              <div className={`${invertborder} ${bg} ${text} relative h-1/5 border  border-2  px-4 overflow-y-auto rounded z-40`}>
                 <p className="mt-2 text-left">
                 This is the very website you're browsing! 
                 </p>
@@ -72,20 +72,22 @@ export default function Projects() {
                   className="object-cover w-full h-full"
                 />
               </div>
-              <button
-                type="submit"
-                class={`${bg} ${text} px-6 py-2 rounded-lg transition-transform duration-300 transform hover:scale-105 z-40`}
-                onclick="location.href='https://github.com/Frankyang2002/CurrentPortfolio'"
-              >
-                View Project
-              </button>
+              <div class={`${bg} ${text} px-4 py-2 rounded-lg transition-transform duration-300 transform hover:scale-105 z-50`}>
+                <a href="https://github.com/Frankyang2002/CurrentPortfolio">
+                  <button
+                    type="submit"
+                  >
+                    View Project
+                  </button>
+                </a>
+              </div>
             </div>
 
 
             <div className={`${invert} p-4 h-4/6 rounded-[20px] text-white text-center space-y-4`}>
               <h3 className="font-bold text-xl">Three Body Problem Simulation</h3>
 
-              <div className={`${invertborder} relative h-1/5 border  border-2 px-4 overflow-y-auto rounded z-40`}>
+              <div className={`${invertborder} ${bg} ${text} relative h-1/5 border  border-2 px-4 overflow-y-auto rounded z-40`}>
                 <p class="mt-2 text-left">
                   This interactive simulation explores the fascinating dynamics of the three-body problem, blending my interest in physics with web development. Built with React, Three.js, HTML, and JavaScript, this project allows users to experiment with a 3D visualization of gravitational interactions.
                 </p>
@@ -131,13 +133,15 @@ export default function Projects() {
                   className="object-cover w-full h-full"
                 />
               </div>
-              <button
-                type="submit"
-                class={`${bg} ${text} px-6 py-2 rounded-lg transition-transform duration-300 transform hover:scale-105 z-50`}
-                onclick="location.href='https://github.com/Frankyang2002/threebodysimulation'"
-              >
-                View Project
-              </button>
+              <div class={`${bg} ${text} px-4 py-2 rounded-lg transition-transform duration-300 transform hover:scale-105 z-50`}>
+                <a href="https://github.com/Frankyang2002/threebodysimulation">
+                  <button
+                    type="submit"
+                  >
+                    View Project
+                  </button>
+                </a>
+              </div>
             </div>
 
 
@@ -145,7 +149,7 @@ export default function Projects() {
             <div className={`${invert} p-4 h-4/6 rounded-[20px] text-white text-center space-y-4`}>
               <h3 className="font-bold text-xl">Optimal Control Code for Dodo Project</h3>
 
-              <div className={`${invertborder} relative h-1/5 border  border-2 px-4 overflow-y-auto rounded z-40`}>                
+              <div className={`${invertborder} ${bg} ${text} relative h-1/5 border  border-2 px-4 overflow-y-auto rounded z-40`}>                
                 <p class="mt-2 text-left">
                   This project involves designing and simulating the optimal control of a robotic "dodo" leg using MATLAB. Inspired by biomechanics and robotics, it focuses on achieving precise, efficient movement that mimics the natural gait of a bird.
                 </p>
@@ -180,13 +184,15 @@ export default function Projects() {
                   className="object-cover w-full h-full"
                 />
               </div>
-              <button
-                type="submit"
-                class={`${bg} ${text} px-6 py-2 rounded-lg z-50 transition-transform duration-300 transform hover:scale-105`}
-                onclick="location.href='https://github.com/Frankyang2002/OptimalControl'"
-              >
-                View Project
-              </button>
+              <div class={`${bg} ${text} px-4 py-2 rounded-lg transition-transform duration-300 transform hover:scale-105 z-50`}>
+                <a href="https://github.com/Frankyang2002/OptimalControl">
+                  <button
+                    type="submit"
+                  >
+                    View Project
+                  </button>
+                </a>
+              </div>
             </div>
 
           </div>  
