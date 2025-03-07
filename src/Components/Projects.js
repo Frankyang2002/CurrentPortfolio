@@ -75,6 +75,7 @@ export default function Projects() {
               <button
                 type="submit"
                 class={`${bg} ${text} px-6 py-2 rounded-lg transition-transform duration-300 transform hover:scale-105 z-40`}
+                onclick="location.href='https://github.com/Frankyang2002/CurrentPortfolio'"
               >
                 View Project
               </button>
@@ -133,6 +134,7 @@ export default function Projects() {
               <button
                 type="submit"
                 class={`${bg} ${text} px-6 py-2 rounded-lg transition-transform duration-300 transform hover:scale-105 z-50`}
+                onclick="location.href='https://github.com/Frankyang2002/threebodysimulation'"
               >
                 View Project
               </button>
@@ -181,6 +183,7 @@ export default function Projects() {
               <button
                 type="submit"
                 class={`${bg} ${text} px-6 py-2 rounded-lg z-50 transition-transform duration-300 transform hover:scale-105`}
+                onclick="location.href='https://github.com/Frankyang2002/OptimalControl'"
               >
                 View Project
               </button>
