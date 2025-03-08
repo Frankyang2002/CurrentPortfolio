@@ -24,7 +24,7 @@ export default function About() {
             <div className={`flex items-start justify-between h-full`}>
               <div className={`w-3/4 text-xl ${text} space-y-6 overflow-y-auto h-3/4`}>
                 <p>Hi, I'm a student at the University of New South Wales (UNSW), where I study Computer Science and Physics. I’ve also had the privilege of expanding my academic horizons through an exchange program at the Technical University of Munich (TUM) with a learning focus on data science and artificial intelligence.</p>
-                <p>My interests span a wide range of fields: physics and mathematics captivate me with their ability to explain the natural world through elegant principles, while history and economics fascinate me with their insights into human behavior, societies, and decision-making. I enjoy combining these disciplines with my passion for data science and analysis to explore complex systems, whether in science, technology, or the broader world.</p>
+                <p>My interests span a wide range of fields: physics and mathematics captivate me with their ability to explain the natural world through elegant principles, while history and economics fascinate me with their insights into human behavior, societies, and decision-making. I enjoy combining these disciplines with my passion for programming and data science to explore complex systems, whether in science, technology, or the broader world.</p>
               </div>
 
               {/* Right Side: My Portfolio Pic */}
