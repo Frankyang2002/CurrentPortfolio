@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CurrentPortfolio/static/css/main.c33a2825.css",
+    "main.js": "/CurrentPortfolio/static/js/main.97a9dbd1.js",
+    "static/js/453.1407b060.chunk.js": "/CurrentPortfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Portimg.png": "/CurrentPortfolio/static/media/Portimg.14ddca595cadfc0b0227.png",
+    "static/media/Portfolio Image.png": "/CurrentPortfolio/static/media/Portfolio Image.f2918ab6428234f25138.png",
+    "static/media/dodo.png": "/CurrentPortfolio/static/media/dodo.29f12fe7455bdaa6c4e0.png",
+    "static/media/3bsimulation.png": "/CurrentPortfolio/static/media/3bsimulation.38a3f561a677247dc011.png",
+    "static/media/sbhs.png": "/CurrentPortfolio/static/media/sbhs.94fb886d00400bc48f24.png",
+    "static/media/UNSWasset.png": "/CurrentPortfolio/static/media/UNSWasset.ff01a1101e0525124aad.png",
+    "static/media/phoenixedu.png": "/CurrentPortfolio/static/media/phoenixedu.ba0f8e98f10f5004361e.png",
+    "static/media/profile.jpg": "/CurrentPortfolio/static/media/profile.506e2099e7dec396d57e.jpg",
+    "static/media/tpw.png": "/CurrentPortfolio/static/media/tpw.258d04d74168d1c92a36.png",
+    "static/media/tumasset.png": "/CurrentPortfolio/static/media/tumasset.6c233846e92c454be5b8.png",
+    "static/media/react.svg": "/CurrentPortfolio/static/media/react.8e63d418a6421cc2662e234ac8af7313.svg",
+    "static/media/logo.svg": "/CurrentPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/python.svg": "/CurrentPortfolio/static/media/python.a71cfada3731c14ee15dbc4c698b0388.svg",
+    "index.html": "/CurrentPortfolio/index.html",
+    "main.c33a2825.css.map": "/CurrentPortfolio/static/css/main.c33a2825.css.map",
+    "main.97a9dbd1.js.map": "/CurrentPortfolio/static/js/main.97a9dbd1.js.map",
+    "453.1407b060.chunk.js.map": "/CurrentPortfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c33a2825.css",
+    "static/js/main.97a9dbd1.js"
+  ]
+}
